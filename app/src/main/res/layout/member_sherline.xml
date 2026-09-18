@@ -11,80 +11,86 @@
         android:padding="24dp">
 
         <TextView
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Biography"
-            android:textSize="18sp"
+            android:textSize="22sp"
             android:textStyle="bold"
+            android:gravity="center"
             android:layout_marginBottom="8dp"/>
 
         <ImageView
-            android:layout_width="120dp"
-            android:layout_height="120dp"
+            android:layout_width="160dp"
+            android:layout_height="160dp"
             android:src="@drawable/profile_sherline"
-            android:layout_marginBottom="8dp"
+            android:layout_marginBottom="12dp"
             android:contentDescription="Profile Picture"/>
 
         <TextView
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Sherline M. Balla"
-            android:textSize="20sp"
-            android:textStyle="bold"/>
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:gravity="center"/>
 
         <TextView
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Age: 24"
-            android:textSize="16sp"
+            android:textSize="18sp"
+            android:gravity="center"
             android:layout_marginTop="8dp"/>
 
         <TextView
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="A third-year BS in Data Analytics student at the University of the Cordilleras. Currently working as a virtual assistant handling marketing, email, and social media management."
-            android:textSize="14sp"
+            android:textSize="16sp"
             android:gravity="center"
             android:layout_marginTop="8dp"/>
 
         <TextView
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Interest"
-            android:textSize="18sp"
+            android:textSize="22sp"
             android:textStyle="bold"
+            android:gravity="center"
             android:layout_marginTop="24dp"
             android:layout_marginBottom="8dp"/>
 
         <TextView
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Field of Interest: Data Analytics"
-            android:textSize="16sp"
-            android:textStyle="bold"/>
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:gravity="center"/>
 
         <TextView
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Enjoys working with numbers, statistics, data handling, and data analysis. Passionate about finding insights from data."
-            android:textSize="14sp"
+            android:textSize="16sp"
             android:gravity="center"
             android:layout_marginTop="8dp"/>
 
         <TextView
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Definition"
-            android:textSize="18sp"
+            android:textSize="22sp"
             android:textStyle="bold"
+            android:gravity="center"
             android:layout_marginTop="24dp"
             android:layout_marginBottom="8dp"/>
 
         <TextView
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="An Android application is a software program that runs on devices using the Android operating system. It is built using Android Studio and written in Java or Kotlin. Android apps are distributed through the Google Play Store."
-            android:textSize="14sp"
+            android:textSize="16sp"
             android:gravity="center"
             android:layout_marginTop="8dp"/>
 

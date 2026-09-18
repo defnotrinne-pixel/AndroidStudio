@@ -11,80 +11,86 @@
         android:padding="24dp">
 
         <TextView
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Biography"
-            android:textSize="18sp"
+            android:textSize="22sp"
             android:textStyle="bold"
+            android:gravity="center"
             android:layout_marginBottom="8dp"/>
 
         <ImageView
-            android:layout_width="120dp"
-            android:layout_height="120dp"
+            android:layout_width="160dp"
+            android:layout_height="160dp"
             android:src="@drawable/profile_aldrei"
-            android:layout_marginBottom="8dp"
+            android:layout_marginBottom="12dp"
             android:contentDescription="Profile Picture"/>
 
         <TextView
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Aldrei Rinoa V. Macapagal"
-            android:textSize="20sp"
-            android:textStyle="bold"/>
+            android:text="Aldrei Rinoa Macapagal"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:gravity="center"/>
 
         <TextView
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Age: 24"
-            android:textSize="16sp"
-            android:layout_marginTop="8dp"/>
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="A first-year BSIT Web Technology student at the University of the Cordilleras, passionate about web development and design."
-            android:textSize="14sp"
+            android:textSize="18sp"
             android:gravity="center"
             android:layout_marginTop="8dp"/>
 
         <TextView
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="A 2nd-year BSIT Web Technology student at the University of the Cordilleras, passionate about web development and design."
+            android:textSize="16sp"
+            android:gravity="center"
+            android:layout_marginTop="8dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Interest"
-            android:textSize="18sp"
+            android:textSize="22sp"
             android:textStyle="bold"
+            android:gravity="center"
             android:layout_marginTop="24dp"
             android:layout_marginBottom="8dp"/>
 
         <TextView
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Field of Interest: Web Development"
-            android:textSize="16sp"
-            android:textStyle="bold"/>
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:gravity="center"/>
 
         <TextView
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Interested in web development, specifically front-end design using HTML, CSS, and JavaScript. Enjoys building clean, user-friendly interfaces and learning new frameworks."
-            android:textSize="14sp"
+            android:text="Interested in web development, specifically front-end design using HTML, CSS, and JavaScript. Enjoys building clean, user-friendly interfaces and learning new frameworks like WordPress."
+            android:textSize="16sp"
             android:gravity="center"
             android:layout_marginTop="8dp"/>
 
         <TextView
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Definition"
-            android:textSize="18sp"
+            android:textSize="22sp"
             android:textStyle="bold"
+            android:gravity="center"
             android:layout_marginTop="24dp"
             android:layout_marginBottom="8dp"/>
 
         <TextView
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="An Android application is a software program that runs on devices using the Android operating system. It is built using Android Studio and written in Java or Kotlin. Android apps are distributed through the Google Play Store."
-            android:textSize="14sp"
+            android:textSize="16sp"
             android:gravity="center"
             android:layout_marginTop="8dp"/>
 
