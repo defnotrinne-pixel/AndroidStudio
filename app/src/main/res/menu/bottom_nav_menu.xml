@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_biography" android:title="Biography" />
+    <item android:id="@+id/nav_interest" android:title="Interest" />
+    <item android:id="@+id/nav_definition" android:title="Definition" />
+</menu>
