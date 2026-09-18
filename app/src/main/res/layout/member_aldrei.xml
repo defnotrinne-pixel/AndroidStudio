@@ -21,7 +21,7 @@
         <ImageView
             android:layout_width="120dp"
             android:layout_height="120dp"
-            android:src="@drawable/aldrei_profile"
+            android:src="@drawable/profile_aldrei"
             android:layout_marginBottom="8dp"
             android:contentDescription="Profile Picture"/>
 
