@@ -19,13 +19,6 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        val fragments = listOf(
-            FirstFragment(),
-            SecondFragment(),
-            ThirdFragment(),
-            FourthFragment(),
-            FifthFragment()
-        )
 
         val tabTitles = listOf("Aldrei", "Cherry Ann", "Eunice", "Sherline", "Nawaf")
 

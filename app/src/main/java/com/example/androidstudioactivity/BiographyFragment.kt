@@ -6,11 +6,11 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 
-class FifthFragment : Fragment() {
+class BiographyFragment : Fragment() {
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View {
-        return inflater.inflate(R.layout.member_nawaf, container, false)
+        return inflater.inflate(R.layout.tab_biography, container, false)
     }
 }
